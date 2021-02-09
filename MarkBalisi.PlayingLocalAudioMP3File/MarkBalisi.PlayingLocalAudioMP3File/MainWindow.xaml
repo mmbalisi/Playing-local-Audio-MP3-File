@@ -12,6 +12,7 @@
             <Button Name="btnPlay" Click="btnPlay_Click">Play</Button>
             <Button Name="btnPause" Margin="5,0" Click="btnPause_Click">Pause</Button>
             <Button Name="btnStop" Click="btnStop_Click">Stop</Button>
+            <Button Name="btnOpen" Margin="5,0" Click="btnOpen_Click">Open</Button>
         </WrapPanel>
     </StackPanel>
 </Window>
